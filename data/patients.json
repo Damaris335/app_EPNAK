@@ -1,0 +1,65 @@
+[
+  {
+    "id_patient": "P01",
+    "nom": "Mr Pe.",
+    "adresse": "12 allées de Birague, 45210 Ferrières-en-Gâtinais",
+    "latitude": 48.1432,
+    "longitude": 2.7911
+  },
+  {
+    "id_patient": "P02",
+    "nom": "Mr V.",
+    "adresse": "32 rue du val Courtempierre, 45490 Courtempierre",
+    "latitude": 48.1021,
+    "longitude": 2.6345
+  },
+  {
+    "id_patient": "P03",
+    "nom": "Mr D / Me D",
+    "adresse": "15 chemin des chevreaux, 45210 Ferrières-en-Gâtinais",
+    "latitude": 48.1510,
+    "longitude": 2.7750
+  },
+  {
+    "id_patient": "P04",
+    "nom": "Me Pi.",
+    "adresse": "16 rue Georges Brière, 45210 Ferrières-en-Gâtinais",
+    "latitude": 48.1390,
+    "longitude": 2.7995
+  },
+  {
+    "id_patient": "P05",
+    "nom": "Me N",
+    "adresse": "11 rue des poiriers, 45680 Dordives",
+    "latitude": 48.1905,
+    "longitude": 2.7480
+  },
+  {
+    "id_patient": "P06",
+    "nom": "Mr Z",
+    "adresse": "7 résidence saint fiacre, 45210 Ferrières-en-Gâtinais",
+    "latitude": 48.1401,
+    "longitude": 2.7842
+  },
+  {
+    "id_patient": "P07",
+    "nom": "Me Pa",
+    "adresse": "421 rue du vieux puits, 45210 Nargis",
+    "latitude": 48.1095,
+    "longitude": 2.7561
+  },
+  {
+    "id_patient": "P08",
+    "nom": "Me M",
+    "adresse": "6 impasses des Trembles, 45680 Dordives",
+    "latitude": 48.1944,
+    "longitude": 2.7510
+  },
+  {
+    "id_patient": "P09",
+    "nom": "Me Pin",
+    "adresse": "17 rue Saint-Eloi, 45210 Ferrières-en-Gâtinais",
+    "latitude": 48.1448,
+    "longitude": 2.7812
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id_rdv": "RDV_001",
+    "id_patient": "P01",
+    "type_soin": "Aide au lever et transmissions",
+    "jours_validite": ["mardi", "jeudi", "samedi", "dimanche"],
+    "debut_souhaite": "08:15",
+    "fin_souhaitee": "09:00",
+    "duree_minutes": 30,
+    "nb_soignants_requis": 2,
+    "note": "Double colonne requise sur le planning"
+  },
+  {
+    "id_rdv": "RDV_002",
+    "id_patient": "P02",
+    "type_soin": "Aide technique au lever",
+    "jours_validite": ["vendredi"],
+    "debut_souhaite": "08:15",
+    "fin_souhaitee": "09:00",
+    "duree_minutes": 30,
+    "nb_soignants_requis": 1,
+    "note": "Chaise pot nécessaire"
+  },
+  {
+    "id_rdv": "RDV_003",
+    "id_patient": "P03",
+    "type_soin": "Aide au lever Couple",
+    "jours_validite": ["lundi", "mercredi", "vendredi"],
+    "debut_souhaite": "08:15",
+    "fin_souhaitee": "09:00",
+    "duree_minutes": 45,
+    "nb_soignants_requis": 1,
+    "note": "Mr D / Me D"
+  },
+  {
+    "id_rdv": "RDV_004",
+    "id_patient": "P06",
+    "type_soin": "Toilette / Change",
+    "jours_validite": ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"],
+    "debut_souhaite": "09:00",
+    "fin_souhaitee": "09:45",
+    "duree_minutes": 30,
+    "nb_soignants_requis": 2,
+    "note": "Mobilise deux AS à 9h00"
+  },
+  {
+    "id_rdv": "RDV_005",
+    "id_patient": "P07",
+    "type_soin": "Passage matin",
+    "jours_validite": ["lundi", "mercredi", "jeudi", "samedi", "dimanche"],
+    "debut_souhaite": "09:00",
+    "fin_souhaitee": "10:00",
+    "duree_minutes": 30,
+    "nb_soignants_requis": 1
+  },
+  {
+    "id_rdv": "RDV_006",
+    "id_patient": "P06",
+    "type_soin": "Change / Coucher après-midi",
+    "jours_validite": ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"],
+    "debut_souhaite": "14:00",
+    "fin_souhaitee": "14:30",
+    "duree_minutes": 30,
+    "nb_soignants_requis": 2,
+    "note": "Aide au transfert requise (2 AS)"
+  },
+  {
+    "id_rdv": "RDV_007",
+    "id_patient": "P04",
+    "type_soin": "Coucher tardif",
+    "jours_validite": ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"],
+    "debut_souhaite": "21:00",
+    "fin_souhaitee": "21:30",
+    "duree_minutes": 20,
+    "nb_soignants_requis": 2,
+    "note": "Coucher et change de nuit à 2 AS"
+  }
+]

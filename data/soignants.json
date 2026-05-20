@@ -1,0 +1,26 @@
+[
+  {
+    "id_soignant": "AS01",
+    "nom": "Julie (Colonne 1)",
+    "statut": "Aide-Soignante",
+    "competences": ["soins_de_base", "transfert_lourd"]
+  },
+  {
+    "id_soignant": "AS02",
+    "nom": "Sarah (Colonne 2)",
+    "statut": "Aide-Soignante",
+    "competences": ["soins_de_base", "transfert_lourd"]
+  },
+  {
+    "id_soignant": "AS03",
+    "nom": "Amandine (Colonne 3)",
+    "statut": "Aide-Soignante",
+    "competences": ["soins_de_base"]
+  },
+  {
+    "id_soignant": "AS04",
+    "nom": "Marine (Colonne 4)",
+    "statut": "Aide-Soignante",
+    "competences": ["soins_de_base", "suivi_specifique"]
+  }
+]
